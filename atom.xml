@@ -8,11 +8,11 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[Thomas Chan]]></name>
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="http://hexo.io/">Hero</generator>
   
   <entry>
     <title><![CDATA[辨析 Sass 中的 Map 和 List]]></title>
